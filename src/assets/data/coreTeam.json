@@ -1,55 +1,100 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name":"Batuhan YALCIN",
+        "designation":"Jr. DevOps",
+        "twitter":"https://twitter.com/Sh4deOfSun",
+        "linkedin":"http://linkedin.com/in/yalcinbatuhan",
+        "github":"https://github.com/sh4deofsun",
+        "profileImage":"batuhanYALCIN.jpeg",
+        "website":"batuhanyalcin.com"
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Mert BILGIC",
+        "designation":"Organizer",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "linkedin":"https://www.linkedin.com/in/mert-bilgiç-7467a4133",
+        "github":"https://github.com/mertbilgic",
+        "profileImage":"mertBILGIC.jpg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Seyma Nur MUTLU",
+        "designation":"Jr. Web Developer",
+        "twitter":"https://twitter.com/thelaststheno?s=08",
+        "linkedin":"https://tr.linkedin.com/in/%C5%9Feyma-nur-mutlu-73231b14a",
+        "github":"https://github.com/seymanurmutlu",
+        "profileImage":"seymaNurMUTLU.jpg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Melike Bahar KOMURCU",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/bihatunvarmis",
+        "linkedin":"https://www.linkedin.com/in/melikekomurcu/",
+        "github":"",
+        "profileImage":"melikeBaharKOMURCU.jpg",
+        "website":""
+    },
+    {
+        "name":"Yener Emin ELIBOL",
+        "designation":"Game Developer",
+        "twitter":"https://twitter.com/yenerelibol?s=09",
+        "linkedin":"https://www.linkedin.com/in/yener-emin-elibol-165081178",
+        "github":"https://github.com/Reneyee",
+        "profileImage":"yenerEminELIBOL.jpg",
+        "website":""
+    },
+    {
+        "name":"M. Muhittin KULUOZTURK",
+        "designation":"Mobile Application Developer",
+        "twitter":"https://twitter.com/klztrk",
+        "linkedin":"https://www.linkedin.com/in/muhittinkuluozturk/",
+        "github":"https://github.com/klztrk",
+        "profileImage":"muhittinKULUOZTURK.jpg",
+        "website":""
+    },
+    {
+        "name":"Osman SIMSEK",
+        "designation":"Organizer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"osmanSIMSEK.jpg",
+        "website":""
+    },
+    {
+        "name":"Mert BODRUMLU",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/mbodrumlu",
+        "linkedin":"https://www.linkedin.com/in/mertbodrumlu",
+        "github":"https://dribbble.com/mbodrumlu",
+        "profileImage":"mertBODRUMLU.png",
+        "website":"https://about.me/mbodrumlu"
+    },
+    {
+        "name":"Salihcan KAHYA",
+        "designation":"Organizer",
+        "twitter":"",
+        "linkedin":"linkedin.com/in/salihcnkhy/",
+        "github":"github.com/salihcnkhy",
+        "profileImage":"salihcanKAHYA.jpg",
+        "website":""
+    },
+    {
+        "name":"Sevde Sare CETIN",
+        "designation":"Web Developer",
+        "twitter":"https://twitter.com/sesarelle",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"sevdeSareCETIN.jpeg",
+        "website":""
+    },
+    {
+        "name":"Ismail Utku SAYAN",
+        "designation":"Organizer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":"",
         "website":""
     }
