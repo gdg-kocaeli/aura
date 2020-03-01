@@ -1,21 +1,23 @@
 {
-    "FeatureEventName":"IWD'20 Kocaeli",
+    "FeatureEventName":"International Women's Day 2020",
     "EventImage":"IWD.jpg",
     "EventDate":{
-        "Date":"",
-        "Month":"",
-        "Year":""
+        "Date":"04",
+        "Month":"April",
+        "Year":"2020"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"10:00 AM",
+        "EndTime":"06:00 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
+    "EventVenue":"Kocaeli Congress Center,Izmit,KOCAELI",
+    "EventVenueMapLink":"https://goo.gl/maps/5e6JrK9u4hccrUUX8",
+    "EventWebsite":"https://wtmkocaeli.com/",
     "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
+    "MeetupLink":"https://www.meetup.com/GDGKocaeli/events/268678754/",
+    "RegistrationLink":"https://www.meetup.com/GDGKocaeli/events/268678754/",
+    "Call For Speaker": "",
+    "Be Sponsor": "",
     "FBEventPageURL":"s"
 }
 

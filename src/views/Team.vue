@@ -42,8 +42,7 @@ import coreTeam from '@/components/team/coreTeam'
 import organizingTeam from '@/components/team/organizingTeam'
   export default {
     components: {
-      coreTeam,
-      organizingTeam
+      coreTeam
     },
     data() {
       return {
