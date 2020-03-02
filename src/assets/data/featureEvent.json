@@ -14,10 +14,11 @@
     "EventVenueMapLink":"https://goo.gl/maps/5e6JrK9u4hccrUUX8",
     "EventWebsite":"https://wtmkocaeli.com/",
     "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDGKocaeli/events/268678754/",
+    "MeetupLink":"https://www.meetup.com/GDGKocaeli",
     "RegistrationLink":"https://www.meetup.com/GDGKocaeli/events/268678754/",
-    "Call For Speaker": "",
-    "Be Sponsor": "",
-    "FBEventPageURL":"s"
+    "CallForSpeaker": "",
+    "BeSponsor": "contact",
+    "FBEventPageURL":"s",
+    "WebSite": "http://wtmkocaeli.com"
 }
 
