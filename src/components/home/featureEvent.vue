@@ -32,16 +32,22 @@
                <p class="google-font mt-2 mb-1" style="font-size:115%;color:#757575">
                    {{eventDetails.EventDescription}}
                </p>
-                
-                <v-btn color="#1a73e8" v-if="eventDetails.RegistrationLink.length>0" :href="eventDetails.RegistrationLink" target="_blank" class="ma-0 elevation-0 my-2" dark style="text-transform: capitalize;border-radius:5px;"> 
-                    Registration Link
+
+               <v-btn color="#1a73e8" v-if="eventDetails.CallForSpeaker.length>0" :href="eventDetails.CallForSpeaker" target="_blank" class="ma-0 elevation-0 my-2" dark style="text-transform: capitalize;border-radius:5px;">
+                   Call for Speaker
+               </v-btn>&nbsp;
+
+                <v-btn color="#1a73e8" v-if="eventDetails.CallForSpeaker.length>0" :href="eventDetails.CallForSpeaker" target="_blank" class="ma-0 elevation-0 my-2" dark style="text-transform: capitalize;border-radius:5px;">
+                    Call for Sponsor
                 </v-btn>
 
                &nbsp;
                 <v-btn color="#1a73e8" v-if="eventDetails.WebSite.length>0" :href="eventDetails.WebSite" target="_blank" class="ma-0 elevation-0 my-2" dark style="text-transform: capitalize;border-radius:5px;">
                     Visit Website
                 </v-btn>
-               &nbsp;
+
+
+
 
                 <v-tooltip top slot="activator" v-if="eventDetails.EventWebsite.length>0">
                     <v-btn flat icon color="#616161" class="ma-0 elevation-0" slot="activator" 
